@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-external-storage",
+  "version": "1.0.0",
+  "author": "SpringCard <technique@springcard.com> (https://www.springcard.com/)",
+  "description": "Cordova Plugin to allow the use of external storage in Android and 'File-Sharing' for iOs by adding a permission in the AndroidManifest.xml file and a UIFileSharingEnabled key in the Info.plist file",
+  "cordova": {
+    "id": "cordova-plugin-external-storage",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecrossley/cordova-plugin-transport-security.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leecrossley/cordova-plugin-transport-security/issues"
+  },
+  "homepage": "https://github.com/leecrossley/cordova-plugin-transport-security#readme"
+}
